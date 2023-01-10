@@ -30,5 +30,10 @@ Analizar distintos métodos o técnicas con respecto a la resolución de circuit
 ![image](https://user-images.githubusercontent.com/116780907/211610189-42d4a223-b86e-49e1-ba57-39dffdf858b7.png)
 ![image](https://user-images.githubusercontent.com/116780907/211610787-cbbab39d-0f68-477b-b26d-959f3933fe97.png)
 ![image](https://user-images.githubusercontent.com/116780907/211610879-9067d9e6-6a37-4427-9c6e-6ab85ab5ca6e.png)
+![image](https://user-images.githubusercontent.com/116780907/211611172-4a87ac2f-6894-4ef1-b7ab-1baacbb99e7d.png)
+![image](https://user-images.githubusercontent.com/116780907/211611270-8cc08e92-da48-4070-94df-304f17df83df.png)
+![image](https://user-images.githubusercontent.com/116780907/211611819-c16977c4-63b9-4642-a408-0304612a4b8c.png)
+![image](https://user-images.githubusercontent.com/116780907/211611970-4f408b25-f802-44ed-bf48-2314463182dd.png)
+![image](https://user-images.githubusercontent.com/116780907/211612420-0da2d4eb-e1c8-4d34-bb6a-e2d8f6d217ab.png)
 
 
