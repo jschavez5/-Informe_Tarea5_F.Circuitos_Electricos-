@@ -2,8 +2,11 @@
 Informe del capítulo 9 y 10 del libro de Principios de Circuitos Eléctricos - Floyd
 # Objetivos
 ## Objetivo General 
-Analizar distintos métodos o técnicas con respecto a la resolución de circuitos en serie-paralelo conjutamente con la aplicación de temas vistos en los anteriores capítulos 
+Analizar distintos métodos o técnicas con respecto a la resolución de circuitos en serie-paralelo conjutamente con la aplicación de temas vistos en los anteriores capítulos
 ## Objetivos Específicos 
+ - Utilizar el método de la corriente en ramas, lazos y voltaje en nodos para determinar cantidades desconocidas en un circuito determinado. 
+ - Analizar los principios del campo magnético, electromagnetismo, histérisi magnética e inducción electromagnética
+ - Conocer la operación de distintos dispositivos electromagnéticos 
 # Marco Teórico
 ## Capítulo 9
 ![image](https://user-images.githubusercontent.com/116780907/211605053-de74054b-ce2d-429c-b753-f23c14309de5.png)
@@ -54,5 +57,14 @@ Analizar distintos métodos o técnicas con respecto a la resolución de circuit
 ![image](https://user-images.githubusercontent.com/116780907/211964808-6d19e983-918b-4f07-ac4e-1c09627e7d43.png)
 ![image](https://user-images.githubusercontent.com/116780907/211964852-a394874f-20a0-4927-b467-ab692afa45e2.png)
 
+# Conclusiones 
+- Se denotó la importancia de conocer de manera profunda las leyes de Kirchhoff ya que, estás son las bases para la utilización del método de la corriente en ramas, lazos y voltaje en nodos para determinar las distitntas incógnitas 
+- El método de corriente de ramas permite encontrar las corrientes en cada una de ellas cuando el circuito posee múltiples ramificaciones 
+- Una de las principales ventajas del método de corrientes de lazo es que permite analizar los circuitos eléctricos de forma independiente, es decir, se pueden analizar cada uno de los lazos del circuito de forma más reducida, pero se debe tener en cuenta la interpretacion de los resultado. 
+- Los polos magnéticos desiguales se atraen entre sí y los polos iguales se repelen uno a otro, además los materiales que pueden ser magnetizados se llaman ferromagnéticos. 
+- Se conoció que se puede utilizar la regla de la mano derecha para establecer la dirección de las líneas de fuerza electromagnéticas presentes alrededor de un conductor. 
+- Cuando un conductor se mueve a través de un campo magnético, o cuando un campo magnético se mueve en relación con el conductor, se induce un voltaje a través del conductor, cuanto más rápido sea el movimiento relativo entre el conductor y el campo magnético, mayor será la intensidad del campo magnético.
+- Se conoció distitos dispositivos electromagnéticos que son empleados en la vida cotidiana y cómo estos funcionan de acuerdo a distintos principios estudiados en esta unidad. 
 
-
+## Bibliografía 
+Floyd, T. L. (2007). Principios de Circuitos Eléctricos . México : PEARSON EDUCACIÓN.
