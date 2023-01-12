@@ -38,11 +38,10 @@ Analizar distintos métodos o técnicas con respecto a la resolución de circuit
 ![image](https://user-images.githubusercontent.com/116780907/211612420-0da2d4eb-e1c8-4d34-bb6a-e2d8f6d217ab.png)
 
 ### Capítulo 10
-![image](https://user-images.githubusercontent.com/116780907/211964147-b7a9d211-e37c-4c76-838b-7504c3f75cd4.png)
-![image](https://user-images.githubusercontent.com/116780907/211964190-bcf86349-78fd-4e02-afad-79b8c06283b8.png)
-![image](https://user-images.githubusercontent.com/116780907/211964293-24f18fcd-36a4-4f6b-abc6-e8699cc6ae03.png)
-![image](https://user-images.githubusercontent.com/116780907/211964372-44e69f50-f41d-488f-bb75-ac5f246d68cd.png)
-![image](https://user-images.githubusercontent.com/116780907/211964407-93321d60-583e-45a4-936d-d37d2e77a872.png)
-![image](https://user-images.githubusercontent.com/116780907/211964482-7a36d56a-65b0-409e-ac4e-3beb270d3fcf.png)
+![image](https://user-images.githubusercontent.com/116780907/211964693-19814cc8-b65f-4783-9f7d-519deb96d4e8.png)
+![image](https://user-images.githubusercontent.com/116780907/211964748-ab03b59c-ee64-44e9-a5bf-e1c59161ea22.png)
+![image](https://user-images.githubusercontent.com/116780907/211964808-6d19e983-918b-4f07-ac4e-1c09627e7d43.png)
+![image](https://user-images.githubusercontent.com/116780907/211964852-a394874f-20a0-4927-b467-ab692afa45e2.png)
+
 
 
