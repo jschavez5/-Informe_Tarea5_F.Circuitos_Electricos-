@@ -15,6 +15,7 @@ Analizar distintos métodos o técnicas con respecto a la resolución de circuit
 
 
 ## Explicación y Resolución de Ejercicios o Problemas
+### Capítulo 9
 ![image](https://user-images.githubusercontent.com/116780907/211607614-2ff6a609-b2f3-4a84-8ec8-906d7b437afd.png)
 ![image](https://user-images.githubusercontent.com/116780907/211607983-e1616bab-7dab-49bb-9a67-54cdeecb92f4.png)
 ![image](https://user-images.githubusercontent.com/116780907/211608322-a7d1d304-70da-4bbd-99d5-753a17e4efab.png)
@@ -35,5 +36,13 @@ Analizar distintos métodos o técnicas con respecto a la resolución de circuit
 ![image](https://user-images.githubusercontent.com/116780907/211611819-c16977c4-63b9-4642-a408-0304612a4b8c.png)
 ![image](https://user-images.githubusercontent.com/116780907/211611970-4f408b25-f802-44ed-bf48-2314463182dd.png)
 ![image](https://user-images.githubusercontent.com/116780907/211612420-0da2d4eb-e1c8-4d34-bb6a-e2d8f6d217ab.png)
+
+### Capítulo 10
+![image](https://user-images.githubusercontent.com/116780907/211964147-b7a9d211-e37c-4c76-838b-7504c3f75cd4.png)
+![image](https://user-images.githubusercontent.com/116780907/211964190-bcf86349-78fd-4e02-afad-79b8c06283b8.png)
+![image](https://user-images.githubusercontent.com/116780907/211964293-24f18fcd-36a4-4f6b-abc6-e8699cc6ae03.png)
+![image](https://user-images.githubusercontent.com/116780907/211964372-44e69f50-f41d-488f-bb75-ac5f246d68cd.png)
+![image](https://user-images.githubusercontent.com/116780907/211964407-93321d60-583e-45a4-936d-d37d2e77a872.png)
+![image](https://user-images.githubusercontent.com/116780907/211964482-7a36d56a-65b0-409e-ac4e-3beb270d3fcf.png)
 
 
